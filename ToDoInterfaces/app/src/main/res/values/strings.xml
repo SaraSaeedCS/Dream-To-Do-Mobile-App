@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ToDoInterfaces</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="task_categories_filter">
+        <item>All</item>
+        <item>Personal</item>
+        <item>Work</item>
+        <item>Home</item>
+    </string-array>
+
+    <string-array name="font_options">
+        <item>Default</item>
+        <item>Cute</item>
+    </string-array>
+    <string name="aboutS">"This app helps you manage your daily tasks in a simple and organized way.\n • Add tasks with category and priority.\n• Pick date and time for tasks.\n• Keep track of personal, work, and home tasks.</string>
+
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme -->
+    <style name="Theme.ToDoInterfaces" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- default color when app starts -->
+        <item name="android:textColorPrimary">@color/primText</item>
+        <item name="android:toolbarStyle">@color/toolbar</item>
+        <item name="android:color">@color/white</item>
+        <item name="android:statusBarColor">@color/tran</item>
+        <item name="android:navigationBarColor">@color/tran</item>
+    </style>
+
+
+
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="app">#B88153</color>
+    <color name="Black">#00020B</color>
+    <color name="tran">#00000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="logoCS">#FFFFFFFF</color>
+    <color name="toolbar">@color/material_dynamic_tertiary30</color>
+    <color name="toolbarT">#FFFFFFFF</color>
+    <color name="button">@color/material_dynamic_tertiary30</color>
+    <color name="buttonT">#FFFFFFFF</color>
+    <color name="QuteC">#00020B</color>
+    <color name="normalT">#00020B</color>
+    <color name="primText">#FFFFFFFF</color>
+    <color name="pHigh">#f94144</color>
+    <color name="pMediem">#f8961e</color>
+    <color name="pLow">#90be6d</color>
+</resources>

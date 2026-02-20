@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app">#B88153</color>
+
+    <color name="Black">#00020B</color>
+    <color name="tran">#00000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="logoCS">#8F643B</color>
+    <color name="toolbar">#9895cf</color>
+    <color name="toolbarT">#FFFFFFFF</color>
+    <color name="button">#9895cf</color>
+    <color name="buttonT">#FFFFFFFF</color>
+    <color name="QuteC">#00020B</color>
+    <color name="normalT">#00020B</color>
+    <color name="primText">#00020B</color>
+
+</resources>
